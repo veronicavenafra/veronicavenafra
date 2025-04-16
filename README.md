@@ -7,7 +7,7 @@ I'm a bioinformatician specialized in **signaling network modeling**, **multi-om
 🔬 **Expertise**: ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
-🧠 **Tools**: SignalingProfiler, Cytoscape, tidyverse, igraph, CoLoMoTo
+🧠 **Tools**: SignalingProfiler, Cytoscape, tidyverse, igraph, CoLoMoTo, Nextflow
 
 
 
@@ -21,7 +21,7 @@ I'm a bioinformatician specialized in **signaling network modeling**, **multi-om
 - 📊 **[SignalingProfiler Exemplary Applications](https://github.com/SaccoPerfettoLab/SignalingProfiler_Benchmarking)**  
   Example applications of SignalingProfiler on three independent datasets.
 
-- 🐍 **[Python SignalingProfiler in NetworkCommons](https://github.com/SaccoPerfettoLab/NetworkCommons_SignalingProfiler](https://github.com/saezlab/networkcommons)**  
+- 🐍 **[Python SignalingProfiler in NetworkCommons](https://github.com/saezlab/networkcommons)**  
   Python-based implementation of SignalingProfiler using NetworkCommons tools.
   
 - 💊 **[Druggability Score – CML Study](https://github.com/SaccoPerfettoLab/Chronic_myeloid_leukemia_SignalingProfiler2.0_analysis)**  
